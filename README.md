@@ -17,7 +17,6 @@
 [<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />]()
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiel349)](https://github.com/amiel349)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiel349)](https://github.com/amiel349)
 
 
