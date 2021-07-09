@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on ... The Geological Survey of Israel 
 - 🌱 I’m currently learning ... Java, Python, C and C++
 ### connect me:
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />[amiel349@gmail.com]
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})[amiel349@gmail.com]
 
