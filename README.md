@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Amiel 
 ### I'm a CS student (second year) at Ariel Univerity 
 
-- 🔭 I’m currently working on ... The Geological Survey of Israel 
+- 🔭 I’m currently working at ... The Geological Survey of Israel 
 - 🌱 I’m currently learning ... Java, Python, C and C++
 
 
